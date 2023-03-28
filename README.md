@@ -25,9 +25,9 @@
 
 <br/>
 
-<a href="https://github.com/Maximizer03">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Maximizer03&theme=buefy&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maximizer03&theme=buefy&layout=compact" />
+<a href="https://github.com/kajalpathriyal05">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kajalpathriyal05&theme=buefy&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajalpathriyal05&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -35,6 +35,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kajal-pathriyal-011886212/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maximizer03-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/kajal-pathriyal-011886212/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kajal-blue?style=flat-square&logo=linkedin"></a>
 <a href="kajal.pathriyal.eee19@itbhu.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-kajal.pathriyal.eee19@itbhu.ac.in-blue?style=flat-square&logo=gmail"></a>
 </p>
